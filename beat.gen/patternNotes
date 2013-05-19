@@ -1,0 +1,22 @@
+Output to csv for patterns
+outputs at max frames, 30fps, but change it every x times depending
+
+
+1st line
+w,h,frames per beat
+then 
+
+#xxxxxx - hex colour coding
+
+width along
+height down
+
+try some simple patterns first
+2 frames per beat, on off
+
+no comma at end of line
+
+keep going for additional frames
+
+width 24
+height 18
